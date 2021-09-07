@@ -1,0 +1,4 @@
+jdbc:mysql://localhost/cursosql
+root
+
+cursosql
